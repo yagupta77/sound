@@ -80,7 +80,7 @@ p {
 .progress-bar {
   padding-left: 50px;
   margin-top: 30px;
-  line-height: 2rem;
+  line-height: 3.5rem
   /* display: flex; */
 }
 .field {
